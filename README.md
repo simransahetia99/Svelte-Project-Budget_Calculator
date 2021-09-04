@@ -1,6 +1,11 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
----
+![calculator-1](https://user-images.githubusercontent.com/52099568/132107236-6c706322-e21c-4af0-a022-87b2529eee35.JPG)
+![calculator-2JPG](https://user-images.githubusercontent.com/52099568/132107251-c3d5f39e-1d13-4f36-b4aa-8c6c2985806e.JPG)
+![calculator-3](https://user-images.githubusercontent.com/52099568/132107262-a2a0bdba-ed76-4ffd-af88-3937d7d59eab.JPG)
+
+
+
+
 
 # svelte app
 
